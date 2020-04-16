@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+}
+
+.btn-search {
+    padding: 12px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-more {
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+.search-bar {
+    margin: 5px;
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+}

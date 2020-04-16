@@ -1,0 +1,32 @@
+{
+  "name": "8th-react-intensive-volodymyr-snaichuk",
+  "version": "0.0.1",
+  "description": "Apiko intensive project",
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/preset-env": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.0.4",
+    "mini-css-extract-plugin": "^0.9.0",
+    "css-loader": "^3.4.2",
+    "file-loader": "^5.0.2",
+    "prettier": "^2.0.4"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "apiko",
+    "intensive",
+    "react"
+  ],
+  "author": "Volodymyr Snaichuk",
+  "license": "ISC"
+}

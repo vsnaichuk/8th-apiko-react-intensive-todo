@@ -1,0 +1,7 @@
+.*
+!.gitignore
+!.prettierrc
+!.babelrc
+
+/node_modules/
+/public/
